@@ -1,8 +1,8 @@
-🌟 AI Yorum Analiz Uygulaması
+#🌟 AI Yorum Analiz Uygulaması
 
 Amazon yorumlarını otomatik olarak toplayan, yabancı dilleri Türkçeye çeviren ve yapay zeka ile duygu analizi yapan PyQt5 tabanlı uygulama
 
-🚀 Özellikler
+##🚀 Özellikler
 
 🔍 Amazon ürün sayfasından yorumları otomatik toplar
 
